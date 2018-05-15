@@ -1,0 +1,94 @@
+html {
+    background: #002e18 !important;
+}
+
+html body {
+    background: #ccc;
+}
+
+.wrap-site header#banner {
+    background: #535454;
+    overflow: hidden;
+}
+
+#img-background {
+    display: none;
+}
+
+header#banner .wrap-brand .brand-text img {
+    margin-top: 0px;
+}
+
+footer#content-info .footer h3 {
+    border-bottom: 0px;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+#otg-header {
+    border-bottom: 3px solid #333;
+}
+
+#otg-header .carousel-caption {
+    bottom: 50px;
+    text-align: left;
+}
+
+#otg-header .item.item-repots .carousel-caption {
+    bottom: 50px;
+    left: 380px;
+    text-align: left;
+}
+
+#otg-header .carousel-caption h3 {
+    font-size: 28px;
+    color: #000;
+    text-shadow: none;
+    margin-bottom: 5px;
+}
+
+#otg-header .carousel-caption p {
+    font-size: 16px;
+    color: #000;
+    text-shadow: none;
+}
+
+#otg-header .carousel-caption .btn {
+    border-color: #00b165;
+}
+
+#otg-header .carousel-caption .btn:hover {
+    border-color: #00b165;
+    background-color: #00b165;
+}
+
+.carousel-control .glyphicon {
+    position: absolute !important;
+}
+
+#navigation.navbar {
+    border-bottom: 3px solid #00b165;
+    border-top: 0px;
+}
+
+#navigation.navbar .nav.navbar-nav li>a:hover {
+    background: #007E48;
+}
+
+h1,
+h2 {
+    color: #007E48 !important;
+}
+
+#navigation .btn-menu-toggle.collapsed,
+#navigation .btn-search-toggle.collapsed {
+    display: none !important;
+}
+
+#idaho_seal {
+    display: none;
+}
+
+body footer#content-info .footer {
+    background: #002e18;
+}
